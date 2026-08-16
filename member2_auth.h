@@ -1,5 +1,5 @@
 // MEMBER 2: Authentication, UI & Help Desk
-// Developed by: Sumit Das
+
 
 #ifndef MEMBER2_H
 #define MEMBER2_H
