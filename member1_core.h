@@ -1,5 +1,5 @@
 // MEMBER 1: Core Logic, Token, Admission, Billing & SOS
-// Developed by: Sabbir Ahmed (Project Manager)
+
 
 #ifndef MEMBER1_H
 #define MEMBER1_H
