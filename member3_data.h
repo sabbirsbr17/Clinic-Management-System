@@ -1,5 +1,5 @@
 // MEMBER 3: Data Structures, Auto-Fetch & Emergency Ambulance
-// Developed by: Mehedi Hasan
+
 
 #ifndef MEMBER3_H
 #define MEMBER3_H
